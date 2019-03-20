@@ -10,11 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
     "graphql": "^14.1.1",
-    "mongoose": "^5.4.19"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.4.19",
+    "prettier-eslint": "^8.8.2"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
