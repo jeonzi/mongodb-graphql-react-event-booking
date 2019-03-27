@@ -12,6 +12,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
+    "chart.js": "^1.1.1",
     "dataloader": "^1.4.0",
     "eslint": "^5.12.0",
     "express": "^4.16.4",
