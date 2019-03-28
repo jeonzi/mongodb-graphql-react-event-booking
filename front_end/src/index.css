@@ -20,12 +20,17 @@ body {
 
 .form-actions button,
 .btn {
-    background: rgba(0, 136, 255, 0.993);
+    /* background: rgba(0, 136, 255, 0.993); */
+    background: #7422A9;
     font: inherit;
-    border: 1px solid rgba(0, 136, 255, 0.993);
+    /* border: 1px solid rgba(0, 136, 255, 0.993); */
+    border: 1px solid #7422A9;
     border-radius: 3px;
     padding: 0.25rem 1rem;
-    margin-right: 1rem;
+    /* margin-right: 1rem; */
+    margin: 0.1rem 0;
+    margin-left: 0.2rem;
+    margin-right: 0.25rem;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.26);
     color: white;
     cursor: pointer;
@@ -35,6 +40,6 @@ body {
 .form-actions button:active,
 .btn:hover,
 .btn:active {
-    background: rgb(27, 1, 172);
-    border-color:  rgb(27, 1, 172);
+    background: #333399;
+    border-color: #333399;
 }

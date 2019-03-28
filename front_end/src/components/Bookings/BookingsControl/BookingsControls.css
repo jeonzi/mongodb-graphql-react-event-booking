@@ -3,7 +3,6 @@
     padding: 0.5rem;
 }
 
-
 .bookings-control button {
     font: inherit;
     border: none;
@@ -15,8 +14,8 @@
 }
 
 .bookings-control button.active {
-    border-bottom-color: #5101d1;
-    color: #5101d1;
+    border-bottom-color: #333399;
+    color: #333399;
 }
 
 .bookings-control button:focus {

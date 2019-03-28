@@ -19,9 +19,9 @@
 }
 
 .form-actions button {
-    background: rgba(0, 136, 255, 0.993);
+    background: #7422A9;
     font: inherit;
-    border: 1px solid rgba(0, 136, 255, 0.993);
+    border: 1px solid #7422A9;
     border-radius: 3px;
     padding: 0.25rem 1rem;
     margin-right: 1rem;
@@ -32,6 +32,6 @@
 
 .form-actions button:hover,
 .form-actions button:active {
-    background: rgb(27, 1, 172);
-    border-color:  rgb(27, 1, 172);
+    background: #333399;
+    border-color:  #333399;
 }

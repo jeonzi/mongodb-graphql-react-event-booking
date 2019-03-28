@@ -15,16 +15,16 @@ width: 46px;
 height: 46px;
 margin: 1px;
 border-radius: 50%;
-border: 5px solid #5101d1;
-border-color: #5101d1 transparent #5101d1 transparent;
+border: 5px solid #333399;
+border-color: #333399 transparent #333399 transparent;
 animation: lds-dual-ring 1.2s linear infinite;
 }
 
 @keyframes lds-dual-ring {
 0% {
     transform: rotate(0deg);
-}
+    }
 100% {
     transform: rotate(360deg);
-}
+    }
 }
